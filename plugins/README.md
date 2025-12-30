@@ -1,0 +1,1 @@
+Contains all manufacturer plugin code
